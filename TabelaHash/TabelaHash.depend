@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1607808452 source:c:\users\guilherme\desktop\tabelahash\cliente.c
+	<string.h>
+	<stdlib.h>
+	"cliente.h"
+
+1607808448 c:\users\guilherme\desktop\tabelahash\cliente.h
+	<stdio.h>
+
+1608317828 source:c:\users\guilherme\desktop\tabelahash\compartimento_hash.c
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	"compartimento_hash.h"
+
+1607808450 c:\users\guilherme\desktop\tabelahash\compartimento_hash.h
+	<stdio.h>
+
+1607808448 source:c:\users\guilherme\desktop\tabelahash\lista_clientes.c
+	<stdlib.h>
+	<stdarg.h>
+	"lista_clientes.h"
+
+1607808454 c:\users\guilherme\desktop\tabelahash\lista_clientes.h
+	"cliente.h"
+
+1607808456 source:c:\users\guilherme\desktop\tabelahash\lista_compartimentos.c
+	<stdlib.h>
+	<stdarg.h>
+	"lista_compartimentos.h"
+	"compartimento_hash.h"
+
+1607808452 c:\users\guilherme\desktop\tabelahash\lista_compartimentos.h
+	"compartimento_hash.h"
+
+1608409446 source:c:\users\guilherme\desktop\tabelahash\main.c
+	<stdlib.h>
+	"lista_clientes.h"
+	"cliente.h"
+	"lista_compartimentos.h"
+	"compartimento_hash.h"
+	"encadeamento_exterior.h"
+
+1607808450 c:\users\guilherme\desktop\tabelahash\encadeamento_exterior.h
+
+1608410610 source:c:\users\guilherme\desktop\tabelahash\encadeamento_exterior.c
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"encadeamento_exterior.h"
+	"compartimento_hash.h"
+	"cliente.h"
+
+1607808452 source:e:\documents\tabelahash\tabelahash\cliente.c
+	<string.h>
+	<stdlib.h>
+	"cliente.h"
+
+1607808448 e:\documents\tabelahash\tabelahash\cliente.h
+	<stdio.h>
+
+1608317828 source:e:\documents\tabelahash\tabelahash\compartimento_hash.c
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	"compartimento_hash.h"
+
+1607808450 e:\documents\tabelahash\tabelahash\compartimento_hash.h
+	<stdio.h>
+
+1608397394 source:e:\documents\tabelahash\tabelahash\encadeamento_exterior.c
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	"encadeamento_exterior.h"
+	"compartimento_hash.h"
+	"cliente.h"
+
+1607808450 e:\documents\tabelahash\tabelahash\encadeamento_exterior.h
+
+1607808448 source:e:\documents\tabelahash\tabelahash\lista_clientes.c
+	<stdlib.h>
+	<stdarg.h>
+	"lista_clientes.h"
+
+1607808454 e:\documents\tabelahash\tabelahash\lista_clientes.h
+	"cliente.h"
+
+1607808456 source:e:\documents\tabelahash\tabelahash\lista_compartimentos.c
+	<stdlib.h>
+	<stdarg.h>
+	"lista_compartimentos.h"
+	"compartimento_hash.h"
+
+1607808452 e:\documents\tabelahash\tabelahash\lista_compartimentos.h
+	"compartimento_hash.h"
+
+1608397636 source:e:\documents\tabelahash\tabelahash\main.c
+	<stdlib.h>
+	"lista_clientes.h"
+	"cliente.h"
+	"lista_compartimentos.h"
+	"compartimento_hash.h"
+	"encadeamento_exterior.h"
+
+1607808452 source:c:\users\raul\downloads\tabelahash\cliente.c
+	<string.h>
+	<stdlib.h>
+	"cliente.h"
+
+1607808448 c:\users\raul\downloads\tabelahash\cliente.h
+	<stdio.h>
+
+1608317828 source:c:\users\raul\downloads\tabelahash\compartimento_hash.c
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	"compartimento_hash.h"
+
+1607808450 c:\users\raul\downloads\tabelahash\compartimento_hash.h
+	<stdio.h>
+
+1607808448 source:c:\users\raul\downloads\tabelahash\lista_clientes.c
+	<stdlib.h>
+	<stdarg.h>
+	"lista_clientes.h"
+
+1607808454 c:\users\raul\downloads\tabelahash\lista_clientes.h
+	"cliente.h"
+
+1607808456 source:c:\users\raul\downloads\tabelahash\lista_compartimentos.c
+	<stdlib.h>
+	<stdarg.h>
+	"lista_compartimentos.h"
+	"compartimento_hash.h"
+
+1607808452 c:\users\raul\downloads\tabelahash\lista_compartimentos.h
+	"compartimento_hash.h"
+
+1608425537 source:c:\users\raul\downloads\tabelahash\main.c
+	<stdlib.h>
+	"lista_clientes.h"
+	"cliente.h"
+	"lista_compartimentos.h"
+	"compartimento_hash.h"
+	"encadeamento_exterior.h"
+
+1607808450 c:\users\raul\downloads\tabelahash\encadeamento_exterior.h
+
+1608425412 source:c:\users\raul\downloads\tabelahash\encadeamento_exterior.c
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"encadeamento_exterior.h"
+	"compartimento_hash.h"
+	"cliente.h"
+
